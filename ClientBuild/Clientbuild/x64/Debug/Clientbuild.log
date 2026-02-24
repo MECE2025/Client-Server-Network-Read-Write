@@ -1,0 +1,5 @@
+﻿  Client.c
+C:\Users\eddie\Desktop\ClientBuild\Client.c(188,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eddie\Desktop\ClientBuild\Client.c(248,35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\eddie\Desktop\ClientBuild\Client.c(289,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Clientbuild.vcxproj -> C:\Users\eddie\Desktop\ClientBuild\x64\Debug\Clientbuild.exe
